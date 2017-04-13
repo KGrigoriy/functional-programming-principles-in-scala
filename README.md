@@ -1,1 +1,1 @@
-functional-programming-principles-in-scala
+# My answers to excercise from "Functional Programming Principles in Scala"
