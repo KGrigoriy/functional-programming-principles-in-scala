@@ -1,0 +1,7 @@
+[debug] Acquiring lock on file C:\GitHub\patmat\project\target\.sbt-compilation-infos\patmat-compile\.sbt-idea-lock ...
+[warn] C:\GitHub\patmat\src\main\scala\patmat\Huffman.scala:161:7: match may not be exhaustive.
+[warn] It would fail on the following inputs: (Fork(_, _, _, _), List(_)), (Fork(_, _, _, _), Nil), (_, List(0)), (_, List(1)), (_, List(??)), (_, List(_)), (_, Nil)
+[warn]       (cTree, remBits) match {
+[warn]       ^
+[warn] one warning found
+[debug] Releasing lock on file C:\GitHub\patmat\project\target\.sbt-compilation-infos\patmat-compile\.sbt-idea-lock.
